@@ -34,7 +34,7 @@ To set up the project. All the steps and guidelines regarding that are listed [h
 ## Note
 1. In the root folder(DeepFake_Detection), create a new folder called "Uploaded_Files".
 
-2. In the root folder(DeepFake_Detection), create a new folder called "model" and add the [model file](https://drive.google.com/drive/folders/1-zErGZ9T89TplQs3ws4QVRFlqE-ljW6l?usp=sharing) in it.
+2. In the root folder(DeepFake_Detection), create a new folder called "model" and add the [model file](https://drive.google.com/drive/u/1/home) in it.
 
 <b>Add these folders to the root folder(DeepFake_Detection). Since, the path has already been given to the "server.py" file and also to avoid any path related errors.</b>
 
