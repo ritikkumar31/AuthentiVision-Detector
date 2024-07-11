@@ -52,5 +52,5 @@ To set up the project. All the steps and guidelines regarding that are listed [h
 4) Confusion Matrix:
 <img width="402" alt="Confusion Matrix" src="https://user-images.githubusercontent.com/58872872/133936080-d2b39804-4a99-47b8-8be4-87ba77161961.png">
 
-- To see the working of the project, follow this ([link](https://github.com/ritikkumar31/AuthentiVision-Detector/blob/main/Implementation%20Video.mp4)).
+- To see the working of the project, follow this [link](https://github.com/ritikkumar31/AuthentiVision-Detector/blob/main/Implementation%20Video.mp4).
 
