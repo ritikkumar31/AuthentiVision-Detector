@@ -6,7 +6,7 @@ AuthentiVision Detector Web-App 🖥 using Deep Learning(ResNext and LSTM), Flas
 
 - The Dataset we've used to train our model is [here](https://github.com/yuezunli/celeb-deepfakeforensics).
 
-- To find our trained model follow this [link](https://drive.google.com/drive/u/1/home).
+- To find our trained model follow this [link](https://drive.google.com/file/d/1k9ji7VHDoG8cJFPpO0CyLbXEH1pgWlHr/view?usp=sharing ).
 
 - To train our model we've took help from [here](https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/tree/master/Model%20Creation).
   Thanks to them!
@@ -34,7 +34,7 @@ To set up the project. All the steps and guidelines regarding that are listed [h
 ## Note
 1. In the root folder(DeepFake_Detection), create a new folder called "Uploaded_Files".
 
-2. In the root folder(DeepFake_Detection), create a new folder called "model" and add the [model file](https://drive.google.com/drive/u/1/home) in it.
+2. In the root folder(DeepFake_Detection), create a new folder called "model" and add the [model file](https://drive.google.com/file/d/1k9ji7VHDoG8cJFPpO0CyLbXEH1pgWlHr/view?usp=sharing ) in it.
 
 <b>Add these folders to the root folder(DeepFake_Detection). Since, the path has already been given to the "server.py" file and also to avoid any path related errors.</b>
 
