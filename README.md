@@ -6,7 +6,7 @@ DeepFake Detection Web-App 🖥 using Deep Learning(ResNext and LSTM), Flask and
 
 - The Dataset we've used to train our model is [here](https://github.com/yuezunli/celeb-deepfakeforensics).
 
-- To find our trained model follow this [link](https://drive.google.com/drive/folders/1-zErGZ9T89TplQs3ws4QVRFlqE-ljW6l?usp=sharing).
+- To find our trained model follow this [link](https://drive.google.com/drive/u/1/home).
 
 - To train our model we've took help from [here](https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/tree/master/Model%20Creation).
   Thanks to them!
@@ -29,7 +29,7 @@ DeepFake-Detection
 4. Requirements.txt - Python libraries needed for this project. 
 
 ## Project Set-up Guidelines
-To set up the project. All the steps and guidelines regarding that are listed [here](https://github.com/iamdhrutipatel/DeepFake-Detection/blob/main/Project-Setup.txt).
+To set up the project. All the steps and guidelines regarding that are listed [here](https://github.com/ritikkumar31/AuthentiVision-Detector/blob/main/Project-Setup.txt).
 
 ## Note
 1. In the root folder(DeepFake_Detection), create a new folder called "Uploaded_Files".
