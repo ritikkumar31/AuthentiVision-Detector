@@ -1,5 +1,5 @@
 # AuthentiVision Detector - Simplified!
-DeepFake Detection Web-App 🖥 using Deep Learning(ResNext and LSTM), Flask and ReactJs where you can predict whether a video is FAKE Or REAL along with the confidence ratio. 
+AuthentiVision Detector Web-App 🖥 using Deep Learning(ResNext and LSTM), Flask and ReactJs where you can predict whether a video is FAKE Or REAL along with the confidence ratio. 
 
 ## Explanation of the Project
 - We've created a DeepFake Detection system which intends to detect DeepFake videos using Deep Learning techniques like ResNext and LSTM. Also integrated the  trained model with the Frontend UI which uses ReactJs and Backend uses Flask.
